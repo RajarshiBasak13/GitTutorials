@@ -1,3 +1,2 @@
 # GitTutorials
-This repo we are creating to user1 change create a repository to learn git.
-user - 1 commit
+This repo we are creating to create a repository to learn git concepts.
